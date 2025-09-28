@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  asdadsa
 -->
 <div align="center">
-  <img src="lib/image/1.gif" width="700" />
+  <img src="lib/image/3.gif" width="700" />
 </div>
 
 <br>
