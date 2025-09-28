@@ -65,4 +65,10 @@ Here are some ideas to get you started:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ulmvyiuzfd7cvxyhsh626ppqk4&unique={true|1|on|yes})  <img src="lib/image/e33bc84d2d8dc25e1492ec55adf8e81b.jpg" width="400" height="325" align="right"/>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fahrzaa/Fahrzaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fahrzaa/Fahrzaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fahrzaa/Fahrzaa/output/pacman-contribution-graph.svg">
+</picture>
+
 
