@@ -21,7 +21,12 @@ Here are some ideas to get you started:
   <img src="lib/image/2.gif" width="700" />
 </div>
 
-<h1 align="center">Fahreza Ft, Kafka</h1>
+<h1 align="center">Hi!, Im a Tech Enthusiast</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C52D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+am+Fahreza+Ft%2C+aka+Kafka;Exploring+Code+%26+Hardware;Keep+Building+Keep+Learning" alt="Typing SVG" />
+</p>
+
 
 <br>
 
@@ -32,10 +37,21 @@ Here are some ideas to get you started:
 <br>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,laravel,react&perline=4)](https://skillicons.dev)
+<br>
+
+# 🖥️ Operating Systems I've Used:
+[![My Skills](https://skillicons.dev/icons?i=kali,windows,ubuntu,arch&perline=3)](https://skillicons.dev)
 
 <br>
 
+# 🛠️ Tools 
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,swift&perline=3)](https://skillicons.dev)
+
+
+<br>
+
+# 🎧 Music:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ulmvyiuzfd7cvxyhsh626ppqk4&unique={true|1|on|yes})  <img src="lib/image/e33bc84d2d8dc25e1492ec55adf8e81b.jpg" width="400" height="325" align="right"/>
 
 
