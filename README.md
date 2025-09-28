@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  asdadsa
 -->
 
-![vid](lib/image/2.gif)
+![vid](lib/image/1.gif)
 
 <br>
 
