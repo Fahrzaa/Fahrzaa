@@ -15,8 +15,9 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning [**Laravel**](https://youtube.com)
  asdadsa
 -->
-
-![vid](lib/image/1.gif)
+<div align="center">
+  <img src="lib/image/1.gif" width="700" />
+</div>
 
 <br>
 
