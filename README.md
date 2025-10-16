@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,laravel,react&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,laravel,react,nodejs,postman&perline=4)](https://skillicons.dev)
 
 <br>
 
